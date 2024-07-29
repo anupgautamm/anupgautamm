@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anupgautam430
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in...
 
