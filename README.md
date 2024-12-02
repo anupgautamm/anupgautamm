@@ -23,8 +23,8 @@ I'm looking to collaborate on projects involving:
 - **E-commerce platforms**
 
 ### ✉️ Get in Touch
-- **Email**: [anupgautam430@example.com](mailto:anupgautam430@example.com, mail.anupgautam@gmail.com)
-- **LinkedIn**: [linkedin.com/in/anup-gautam]([https://www.linkedin.com/in/anup-gautam](https://www.linkedin.com/in/anup-gautam-28a271268/))
+- **Email**: (anupgautam430@gmail.com, mail.anupgautam@gmail.com)
+- **LinkedIn**: [linkedin.com/in/anup-gautam](https://www.linkedin.com/in/anup-gautam-28a271268/)
 - **GitHub**: [@anupgautam430](https://github.com/anupgautam430)
 
 ### 🌟 Fun Facts
