@@ -23,7 +23,7 @@ I'm looking to collaborate on projects involving:
 - **E-commerce platforms**
 
 ### ✉️ Get in Touch
-- **Email**: (anupgautam430@gmail.com, mail.anupgautam@gmail.com)
+- **Email**: (mail@gautamanup1.com.np, mail@anup-gautam.com.np)
 - **LinkedIn**: [linkedin.com/in/anup-gautam](https://www.linkedin.com/in/anup-gautam-28a271268/)
 - **GitHub**: [@anupgautam430](https://github.com/anupgautamm)
 
