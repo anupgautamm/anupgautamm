@@ -25,7 +25,7 @@ I'm looking to collaborate on projects involving:
 ### ✉️ Get in Touch
 - **Email**: (anupgautam430@gmail.com, mail.anupgautam@gmail.com)
 - **LinkedIn**: [linkedin.com/in/anup-gautam](https://www.linkedin.com/in/anup-gautam-28a271268/)
-- **GitHub**: [@anupgautam430](https://github.com/anupgautam430)
+- **GitHub**: [@anupgautam430](https://github.com/anupgautamm)
 
 ### 🌟 Fun Facts
 - I'm fascinated by the seamless integration of technology into everyday life.
@@ -36,10 +36,10 @@ I'm looking to collaborate on projects involving:
 ❤️ I’m always open to connecting with like-minded developers, so feel free to reach out or collaborate on exciting new projects!
 
 ### 📍 GitHub Stats
-![Anup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupgautam430&show_icons=true&theme=radical)
+![Anup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupgautamm&show_icons=true&theme=radical)
 
 ### ⚔️ Top Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupgautam430&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupgautamm&layout=compact&theme=radical)
 
 ---
 *Thanks for visiting my profile!*
