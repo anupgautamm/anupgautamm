@@ -10,7 +10,7 @@ I'm a passionate web developer with a strong interest in creating modern, respon
 - **Continuous Learning**: Exploring new frameworks, languages, and best practices.
 
 ### ✅ Skills
-- **Languages**: JavaScript, PHP, C#, TDL
+- **Languages**: JavaScript, PHP, C#, Java, TDL
 - **Frameworks/Libraries**: Zend, LARAVEL, ASP.NET Core
 - **Backend Technologies**: RESTful APIs, Database Management (SQL, MongoDB, MYSQL)
 - **Other Tools**: Git, Docker, Postman, VS Code
@@ -23,9 +23,9 @@ I'm looking to collaborate on projects involving:
 - **E-commerce platforms**
 
 ### ✉️ Get in Touch
-- **Email**: (mail@gautamanup1.com.np, mail@anup-gautam.com.np)
-- **LinkedIn**: [linkedin.com/in/anup-gautam](https://www.linkedin.com/in/anup-gautam-28a271268/)
-- **GitHub**: [@anupgautam430](https://github.com/anupgautamm)
+- **Email**: (mail@anup-gautam.com.np, mail@gautamanup1.com.np)
+- **LinkedIn**: [linkedin.com/in/anup-gautam-developer](https://www.linkedin.com/in/anup-gautam-developer/)
+- **GitHub**: [@anupgautamm](https://github.com/anupgautamm)
 
 ### 🌟 Fun Facts
 - I'm fascinated by the seamless integration of technology into everyday life.
